@@ -1,0 +1,59 @@
+.main{
+    background: #eff4fd;
+}
+.intro{
+    margin-left: 6%;
+    margin-top: 6%;
+}
+.intro h1{
+    font-size: 50px;
+    color: #212121;
+    margin-bottom: 20px;
+}
+.social{
+margin-left: 8%;
+margin-top: 6%;
+}
+.projects{
+margin-left: 6%;
+margin-top: 3%;
+}
+.social a{
+font-size: 30px;
+color: #212121;
+margin-right: 20px;
+}
+#s1:hover #ss1{color:orange;}
+#s2:hover #ss2{color:orange;}
+#s3:hover #ss3{color:orange;}
+.social a:hover{
+color: orange;
+}
+.nav-item a:hover{
+color: orange;
+}
+.container-fluid a:hover{
+color: orange;
+}
+.social h2{
+font-size: 40px;
+color: #212121;
+margin-bottom: 20px;
+}
+.social p{
+color: #555;
+line-height: 22px;
+}
+span{
+color: orange;    
+}
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 20px;
+    display: none;
+    background-color: none;
+}
+#p1:hover #pro1{color:orange;}
+#p2:hover #pro2{color:orange;}
+#p3:hover #pro3{color:orange;}
